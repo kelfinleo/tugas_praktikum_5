@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tugas_praktikum_5</string>
+    <string name="error_invalid_password">password salah</string>
+    <string name="error_field_required">harus di isi</string>
+    <string name="error_invalid_email">email salah</string>
+    <string name="prompt_email">email</string>
+    <string name="prompt_password">password</string>
+    <string name="action_sign_in_short"></string>
+    <string name="action_sign_in">login</string>
+</resources>
